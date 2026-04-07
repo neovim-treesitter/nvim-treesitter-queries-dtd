@@ -1,8 +1,9 @@
 {
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml",
-  "semver": false,
   "lang": "dtd",
-  "max_version": null,
+  "parser_version": "5000ae8f22d11fbe93939b05c1e37cf21117162d",
   "location": "dtd",
-  "min_version": null
+  "semver": false,
+  "generate": null,
+  "generate_from_json": null,
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
 }
